@@ -1,0 +1,5 @@
+/.idea/
+/target/
+*.gitignore
+/src/PP_2_1_2_Spring_HelloWorld-master.iml
+/src/.idea/
